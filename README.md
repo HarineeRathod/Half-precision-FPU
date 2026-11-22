@@ -57,6 +57,4 @@ The design was simulated and checked by inspecting waveforms for representative 
 - The multiplier does not detect overflow, underflow or subnormal results (that logic is commented out).
 - A product of two subnormal operands is flushed to zero.
 
-## Tools
 
-Quartus II 14.0 (Web Edition) project. Simulated with [simulator name].
